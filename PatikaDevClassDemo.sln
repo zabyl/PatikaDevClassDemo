@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFieldProperty", "Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDemo", "ConstructorDemo\ConstructorDemo.csproj", "{1D75E8C7-A9BD-4B3E-BE76-3DE4F2D6ABC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationDemo", "EncapsulationDemo\EncapsulationDemo.csproj", "{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1D75E8C7-A9BD-4B3E-BE76-3DE4F2D6ABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D75E8C7-A9BD-4B3E-BE76-3DE4F2D6ABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D75E8C7-A9BD-4B3E-BE76-3DE4F2D6ABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
