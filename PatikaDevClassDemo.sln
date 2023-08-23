@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDemo", "Construc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationDemo", "EncapsulationDemo\EncapsulationDemo.csproj", "{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassDemo", "StaticClassDemo\StaticClassDemo.csproj", "{51965F1F-DE35-4780-919E-15538DBC722A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D949C7F-6B15-49ED-ACE2-C7378DFD86C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51965F1F-DE35-4780-919E-15538DBC722A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51965F1F-DE35-4780-919E-15538DBC722A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51965F1F-DE35-4780-919E-15538DBC722A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51965F1F-DE35-4780-919E-15538DBC722A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
